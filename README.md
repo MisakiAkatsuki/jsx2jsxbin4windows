@@ -2,7 +2,4 @@
 Compile jsx file to jsxbin
 
 ## Support
-- ExtendScript Toolkit CS6, CC
-
-## Usage
-- Windows
+  Windows ExtendScript Toolkit CS6, CC
